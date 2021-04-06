@@ -1,0 +1,10 @@
+C:\Users\студент\Desktop\Проект\XFit\XFit\bin\Debug\XFit.exe.config
+C:\Users\студент\Desktop\Проект\XFit\XFit\bin\Debug\XFit.exe
+C:\Users\студент\Desktop\Проект\XFit\XFit\bin\Debug\XFit.pdb
+C:\Users\студент\Desktop\Проект\XFit\XFit\obj\Debug\XFit.csprojAssemblyReference.cache
+C:\Users\студент\Desktop\Проект\XFit\XFit\obj\Debug\XFit.Form1.resources
+C:\Users\студент\Desktop\Проект\XFit\XFit\obj\Debug\XFit.Properties.Resources.resources
+C:\Users\студент\Desktop\Проект\XFit\XFit\obj\Debug\XFit.csproj.GenerateResource.cache
+C:\Users\студент\Desktop\Проект\XFit\XFit\obj\Debug\XFit.csproj.CoreCompileInputs.cache
+C:\Users\студент\Desktop\Проект\XFit\XFit\obj\Debug\XFit.exe
+C:\Users\студент\Desktop\Проект\XFit\XFit\obj\Debug\XFit.pdb
